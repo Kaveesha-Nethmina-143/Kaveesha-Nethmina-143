@@ -29,44 +29,9 @@ I work across the interface and the backend, bringing together<br/>
 <br/>
 <br/>
 
-#### FRONTEND & WEB
+<img src="./stack.svg" width="100%" alt="Animated logo cards for HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, PHP, Java, Firebase, MySQL, PostgreSQL, Cloudflare, Android, React Native, Unity, Bootstrap, Apache Maven, Canva and AI" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap" />
-
-**HTML · CSS · JavaScript · React · Next.js · Tailwind CSS · Bootstrap**
-
-<br/>
-
-#### BACKEND & BUILD TOOLS
-
-<img src="https://skillicons.dev/icons?i=php,java,maven&theme=dark" alt="PHP, Java, Apache Maven" />
-
-**PHP · Java · Apache Maven**
-
-<br/>
-
-#### DATABASES & CLOUD
-
-<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,cloudflare&theme=dark" alt="Firebase, MySQL, PostgreSQL, Cloudflare" />
-
-**Firebase · MySQL · PostgreSQL · Cloudflare**
-
-<br/>
-
-#### MOBILE & GAME DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=androidstudio,react,unity&theme=dark" alt="Android development, React Native, Unity" />
-
-**Android · React Native · Unity**
-
-<br/>
-
-#### CREATIVE TOOLS & AI
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![AI](https://img.shields.io/badge/AI-TOOLS_%26_EXPERIMENTS-A78BFA?style=for-the-badge&labelColor=0B1020)
-
-**Canva · AI tools & experiments**
+<sub>Moving neon borders · pulsing highlights · 19 technologies & tools</sub>
 
 <br/>
 <br/>
