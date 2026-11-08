@@ -15,62 +15,84 @@
 
 ### `01` / THE PERSON BEHIND THE COMMITS
 
+**Hey, I'm Kaveesha — a web developer from Sri Lanka.**<br/>
+I work across the interface and the backend, bringing together<br/>
+**PHP, JavaScript, React, Next.js, and carefully crafted CSS.**
+
 </div>
 
-```javascript
-const kaveesha = {
-  location: "Sri Lanka 🇱🇰",
-  space: "Astrea Solutions",
-  interests: ["Code", "Design", "Creative experiments"],
-  approach: "Make it work. Make it clear. Make it memorable.",
+```typescript
+const developer = {
+  name: "Kaveesha Nethmina",
+  basedIn: "Sri Lanka 🇱🇰",
+  connectedWith: "Astrea Solutions",
+  frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+  styling: ["Tailwind CSS", "Responsive layouts"],
+  backend: ["PHP"],
+  mindset: "Build → experiment → improve → repeat",
 };
 ```
 
 <div align="center">
 
-I like building things where **good design meets useful code**.<br/>
-This is where ideas become experiments, and experiments become something real.
-
 <br/>
 
-### `02` / CHOOSE YOUR NEXT STOP
+### `02` / MY TECH UNIVERSE
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>⌘ &nbsp; THE LAB</h3>
-<p>Projects, code & experiments.</p>
-<a href="https://github.com/Kaveesha-Nethmina-143?tab=repositories"><strong>EXPLORE REPOSITORIES ↗</strong></a>
-</td>
-<td align="center" width="33%">
-<h3>◈ &nbsp; ASTREA</h3>
-<p>A link beyond the commits.</p>
-<a href="https://astrea.lk/"><strong>VISIT ASTREA ↗</strong></a>
-</td>
-<td align="center" width="33%">
-<h3>✦ &nbsp; INSPIRATION</h3>
-<p>Things worth a closer look.</p>
-<a href="https://github.com/Kaveesha-Nethmina-143?tab=stars"><strong>EXPLORE STARS ↗</strong></a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### `03` / KEEP BUILDING
-
-[Follow my commits and contributions ↗](https://github.com/Kaveesha-Nethmina-143?tab=overview)
+<sub>The technologies I work with — from the first HTML element to the server.</sub>
 
 <br/>
 <br/>
 
-```text
-IDEA  ───────►  BUILD  ───────►  REFINE  ───────►  REPEAT ↺
-```
+<img src="./stack.svg" width="100%" alt="Animated technology stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS and PHP" />
 
-**Less ordinary. More intentional.**
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1020?style=flat-square&logo=tailwindcss&logoColor=38BDF8)](https://tailwindcss.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
-<sub>Thanks for dropping into my corner of GitHub.</sub>
+<br/>
+<br/>
+
+### `03` / FROM PIXELS TO LOGIC
 
 </div>
 
+**◈ Interfaces with character**<br/>
+HTML and CSS for structure and detail. React and Next.js for component-based interfaces. Tailwind CSS for styling across screen sizes.
+
+**⌘ Behaviour behind the interface**<br/>
+JavaScript for interaction and application logic. PHP for the server side of the experience.
+
+**✦ The details that make it feel right**<br/>
+Responsive layouts, clear navigation, consistent spacing, and motion that gives an interface personality.
+
+<div align="center">
+
+<br/>
+
+### `04` / THE BUILD LOOP
+
+<img src="./workflow.svg" width="100%" alt="Animated development loop: imagine, design, develop, refine and repeat" />
+
+<br/>
+
+### `05` / EXPLORE MY WORLD
+
+[![Repositories](https://img.shields.io/badge/%3C%2F%3E_BROWSE_MY_CODE-22D3EE?style=for-the-badge&labelColor=0B1020)](https://github.com/Kaveesha-Nethmina-143?tab=repositories)
+[![Activity](https://img.shields.io/badge/COMMIT_TRAIL-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaveesha-Nethmina-143?tab=overview)
+[![Astrea](https://img.shields.io/badge/VISIT_ASTREA-F472B6?style=for-the-badge)](https://astrea.lk/)
+
+<br/>
+
+**Code with purpose. Design with personality.**
+
+<sub>PHP · HTML · CSS · JavaScript · React · Next.js · Tailwind CSS</sub>
+
+<br/>
+<br/>
+
+</div>
