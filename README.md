@@ -17,23 +17,8 @@
 
 **Hey, I'm Kaveesha — a web developer from Sri Lanka.**<br/>
 I work across the interface and the backend, bringing together<br/>
-**PHP, JavaScript, React, Next.js, and carefully crafted CSS.**
+**web, mobile, backend, databases, games, and creative tools.**
 
-</div>
-
-```typescript
-const developer = {
-  name: "Kaveesha Nethmina",
-  basedIn: "Sri Lanka 🇱🇰",
-  connectedWith: "Astrea Solutions",
-  frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
-  styling: ["Tailwind CSS", "Responsive layouts"],
-  backend: ["PHP"],
-  mindset: "Build → experiment → improve → repeat",
-};
-```
-
-<div align="center">
 
 <br/>
 
@@ -44,15 +29,44 @@ const developer = {
 <br/>
 <br/>
 
-<img src="./stack.svg" width="100%" alt="Animated technology stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS and PHP" />
+#### FRONTEND & WEB
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1020?style=flat-square&logo=tailwindcss&logoColor=38BDF8)](https://tailwindcss.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap" />
+
+**HTML · CSS · JavaScript · React · Next.js · Tailwind CSS · Bootstrap**
+
+<br/>
+
+#### BACKEND & BUILD TOOLS
+
+<img src="https://skillicons.dev/icons?i=php,java,maven&theme=dark" alt="PHP, Java, Apache Maven" />
+
+**PHP · Java · Apache Maven**
+
+<br/>
+
+#### DATABASES & CLOUD
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,cloudflare&theme=dark" alt="Firebase, MySQL, PostgreSQL, Cloudflare" />
+
+**Firebase · MySQL · PostgreSQL · Cloudflare**
+
+<br/>
+
+#### MOBILE & GAME DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=androidstudio,react,unity&theme=dark" alt="Android development, React Native, Unity" />
+
+**Android · React Native · Unity**
+
+<br/>
+
+#### CREATIVE TOOLS & AI
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![AI](https://img.shields.io/badge/AI-TOOLS_%26_EXPERIMENTS-A78BFA?style=for-the-badge&labelColor=0B1020)
+
+**Canva · AI tools & experiments**
 
 <br/>
 <br/>
@@ -65,7 +79,10 @@ const developer = {
 HTML and CSS for structure and detail. React and Next.js for component-based interfaces. Tailwind CSS for styling across screen sizes.
 
 **⌘ Behaviour behind the interface**<br/>
-JavaScript for interaction and application logic. PHP for the server side of the experience.
+JavaScript for interaction. PHP and Java for backend development. MySQL, PostgreSQL, and Firebase for data, with Apache Maven in my Java workflow.
+
+**✦ Beyond the browser**<br/>
+Android and React Native for mobile development, Unity for games, Cloudflare for web infrastructure, and Canva and AI tools for creative work.
 
 **✦ The details that make it feel right**<br/>
 Responsive layouts, clear navigation, consistent spacing, and motion that gives an interface personality.
@@ -90,7 +107,7 @@ Responsive layouts, clear navigation, consistent spacing, and motion that gives 
 
 **Code with purpose. Design with personality.**
 
-<sub>PHP · HTML · CSS · JavaScript · React · Next.js · Tailwind CSS</sub>
+<sub>Web · Mobile · Backend · Databases · Cloud · Games · Design · AI</sub>
 
 <br/>
 <br/>
