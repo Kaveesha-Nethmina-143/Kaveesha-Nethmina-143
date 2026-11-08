@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I%27m+Kaveesha+%3C%2F%3E;Ideas+into+interfaces.;Creativity+meets+code.;Always+building.+Always+evolving.)](https://github.com/Kaveesha-Nethmina-143)
+<img src="./terminal.svg" width="700" alt="Animated terminal: ideas into interfaces, creativity meets code" />
 
 [![Sri Lanka](https://img.shields.io/badge/BASED_IN-SRI_LANKA-22d3ee?style=for-the-badge&labelColor=0b1020)](https://github.com/Kaveesha-Nethmina-143)
 [![Astrea](https://img.shields.io/badge/ASTREA-SOLUTIONS-a78bfa?style=for-the-badge&labelColor=0b1020)](https://astrea.lk/)
@@ -57,11 +57,9 @@ This is where ideas become experiments, and experiments become something real.
 
 <br/>
 
-### `03` / THE COMMIT SIGNAL
+### `03` / KEEP BUILDING
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaveesha-Nethmina-143&bg_color=0b1020&color=a78bfa&line=22d3ee&point=f472b6&area=true&area_color=22d3ee&hide_border=true&custom_title=KAVEESHA%20%2F%20RECENT%20ACTIVITY)](https://github.com/Kaveesha-Nethmina-143?tab=overview)
-
-<sub>Public activity · updated by the graph service</sub>
+[Follow my commits and contributions ↗](https://github.com/Kaveesha-Nethmina-143?tab=overview)
 
 <br/>
 <br/>
@@ -75,3 +73,4 @@ IDEA  ───────►  BUILD  ───────►  REFINE  ──�
 <sub>Thanks for dropping into my corner of GitHub.</sub>
 
 </div>
+

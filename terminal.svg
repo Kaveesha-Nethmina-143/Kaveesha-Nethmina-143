@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130">
+<defs><clipPath id="typing"><rect x="60" y="48" width="0" height="40"><animate attributeName="width" values="0;0;670;670;0" keyTimes="0;.08;.5;.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect x="1" y="1" width="798" height="128" rx="14" fill="#0b1020" stroke="#25243e"/>
+<circle cx="23" cy="20" r="4" fill="#f472b6"/><circle cx="39" cy="20" r="4" fill="#a78bfa"/><circle cx="55" cy="20" r="4" fill="#22d3ee"/>
+<text x="775" y="24" text-anchor="end" font-family="monospace" font-size="11" fill="#64748b">kaveesha@github ~</text>
+<text x="25" y="76" font-family="monospace" font-size="22" fill="#f472b6">❯</text>
+<g clip-path="url(#typing)"><text x="60" y="76" font-family="monospace" font-size="21" fill="#22d3ee">Ideas into interfaces. Creativity into code.</text></g>
+<rect x="63" y="57" width="10" height="23" fill="#a78bfa"><animate attributeName="x" values="63;63;615;615;63" keyTimes="0;.08;.5;.9;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="26" y="108" font-family="monospace" font-size="11" letter-spacing="2" fill="#64748b">BUILD / EXPERIMENT / EVOLVE</text>
+</svg>
