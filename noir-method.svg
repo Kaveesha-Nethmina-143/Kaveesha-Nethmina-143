@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Approach: understand, design, develop, refine">
+<rect width="1200" height="260" fill="#090909"/>
+<text x="50" y="48" font-family="Arial" font-size="10" letter-spacing="4" fill="#bda16a">THE APPROACH</text>
+<path d="M50 193H1150" stroke="#51442c" stroke-width=".8"/>
+<circle cx="50" cy="193" r="3" fill="#d0b27a"><animate attributeName="cx" values="50;1150;50" dur="12s" repeatCount="indefinite"/></circle>
+<g font-family="Georgia,serif" font-size="30" fill="#d5bc89"><text x="50" y="111">Understand.</text><text x="350" y="111">Design.</text><text x="650" y="111">Develop.</text><text x="950" y="111">Refine.</text></g>
+<g font-family="Arial" font-size="11" fill="#a9936d"><text x="50" y="147">Start with the right questions.</text><text x="350" y="147">Give the idea a clear form.</text><text x="650" y="147">Build with care and intention.</text><text x="950" y="147">Make every detail count.</text></g>
+<text x="1150" y="231" text-anchor="end" font-family="Arial" font-size="9" letter-spacing="3" fill="#bda16a">A CONTINUOUS PRACTICE</text><path d="M50 194H1150" stroke="#d8bc81" opacity=".08" stroke-width="8"/><circle cx="50" cy="193" r="10" fill="#d8bc81" opacity=".08"><animate attributeName="cx" values="50;1150;50" dur="12s" repeatCount="indefinite"/></circle></svg>

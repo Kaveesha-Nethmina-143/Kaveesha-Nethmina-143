@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Kaveesha Nethmina — developer and creative thinker">
+<defs><linearGradient id="gold"><stop stop-color="#bda16a"/><stop offset=".5" stop-color="#f0cf8d"/><stop offset="1" stop-color="#bda16a"/></linearGradient></defs>
+<defs>
+<radialGradient id="halo"><stop stop-color="#8f6b2d" stop-opacity=".2"/><stop offset="1" stop-color="#090909" stop-opacity="0"/></radialGradient>
+<linearGradient id="shine"><stop stop-color="#7b5d2c"/><stop offset=".5" stop-color="#e5c992"/><stop offset="1" stop-color="#987039"/><animateTransform attributeName="gradientTransform" type="translate" values="-.4 0;.4 0;-.4 0" dur="9s" repeatCount="indefinite"/></linearGradient>
+</defs>
+<rect width="1200" height="440" fill="#090909"/>
+<ellipse cx="945" cy="225" rx="235" ry="210" fill="url(#halo)"><animate attributeName="opacity" values=".45;1;.45" dur="8s" repeatCount="indefinite"/></ellipse>
+<path d="M40 40H1160V400H40Z" fill="none" stroke="#51442c" stroke-width=".7"/>
+<text x="85" y="88" font-family="Arial,sans-serif" font-size="11" letter-spacing="5" fill="#bda16a">KAVEESHA NETHMINA / PERSONAL SPACE</text>
+<text x="79" y="199" font-family="Georgia,Times New Roman,serif" font-size="88" letter-spacing="-3" fill="url(#shine)">Kaveesha</text>
+<text x="79" y="291" font-family="Georgia,Times New Roman,serif" font-size="88" letter-spacing="-3" fill="url(#shine)">Nethmina<tspan fill="#d8bc81">.</tspan></text>
+<path d="M85 322H605" stroke="#51442c" stroke-width=".8"/>
+<path d="M85 322h80" stroke="url(#gold)" stroke-width="1.5"><animate attributeName="d" values="M85 322h80;M525 322h80;M85 322h80" dur="10s" repeatCount="indefinite"/></path>
+<text x="85" y="357" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#ae9a76">DEVELOPMENT. DESIGN. CONSIDERED DETAIL.</text>
+<g transform="translate(945 225)" fill="none" stroke="#8c7244">
+<ellipse rx="124" ry="145" stroke-width=".7" opacity=".65"/>
+<ellipse rx="105" ry="129" stroke-width=".5" opacity=".4"/>
+<circle r="151" stroke-width=".6" stroke-dasharray="34 915" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="38s" repeatCount="indefinite"/></circle>
+</g>
+<text x="945" y="244" text-anchor="middle" font-family="Georgia,serif" font-size="70" letter-spacing="-8" fill="#d0b27a" opacity=".8">KN</text>
+<text x="945" y="283" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="4" fill="#bda16a">SRI LANKA</text>
+<g transform="translate(945 225)">
+<ellipse rx="137" ry="158" fill="none" stroke="#a88a50" stroke-width=".7" stroke-dasharray="54 890" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="48s" repeatCount="indefinite"/></ellipse>
+<circle r="151" fill="none" stroke="none"/><circle cx="151" r="2.5" fill="#d8bc81"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="38s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="40" y="40" width="1120" height="360" fill="none" stroke="#d8bc81" stroke-width="1" stroke-dasharray="100 2860" opacity=".45"><animate attributeName="stroke-dashoffset" from="0" to="-2960" dur="24s" repeatCount="indefinite"/></rect>
+<g fill="#d8bc81"><circle cx="734" cy="105" r="1"><animate attributeName="opacity" values=".1;.7;.1" dur="6s" repeatCount="indefinite"/></circle><circle cx="1110" cy="334" r="1.2"><animate attributeName="opacity" values=".6;.1;.6" dur="7s" repeatCount="indefinite"/></circle></g>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./atelier-header.svg" width="100%" alt="Kaveesha Nethmina — an ivory and gold editorial introduction" />
+<img src="./noir-header.svg" width="100%" alt="Kaveesha Nethmina — a black and champagne-gold animated introduction" />
 
 <br/>
 
@@ -24,7 +24,7 @@ game development, and creative tools**.
 <br/>
 <br/>
 
-<img src="./atelier-stack.svg" width="100%" alt="Nineteen technologies and tools, presented in charcoal and muted gold with subtle animated details" />
+<img src="./noir-stack.svg" width="100%" alt="Nineteen technologies and tools, presented in luxury black and gold with animated editorial accents" />
 
 <br/>
 <br/>
@@ -41,12 +41,12 @@ game development, and creative tools**.
 
 <br/>
 
-<img src="./atelier-method.svg" width="100%" alt="A considered development approach with a gently moving gold accent" />
+<img src="./noir-method.svg" width="100%" alt="A considered development approach with a gently moving gold accent" />
 
 <br/>
 <br/>
 
-<a href="https://github.com/Kaveesha-Nethmina-143?tab=overview"><img src="./atelier-contributions.svg" width="100%" alt="Contribution history in warm gold tones" /></a>
+<a href="https://github.com/Kaveesha-Nethmina-143?tab=overview"><img src="./noir-contributions.svg" width="100%" alt="Contribution history in warm gold tones" /></a>
 
 <div align="center">
 
