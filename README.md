@@ -1,89 +1,64 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Kaveesha Nethmina — animated neon banner" />
+<img src="./atelier-header.svg" width="100%" alt="Kaveesha Nethmina — an ivory and gold editorial introduction" />
 
 <br/>
 
-<img src="./terminal.svg" width="700" alt="Animated terminal: ideas into interfaces, creativity meets code" />
-
-[![Sri Lanka](https://img.shields.io/badge/BASED_IN-SRI_LANKA-22d3ee?style=for-the-badge&labelColor=0b1020)](https://github.com/Kaveesha-Nethmina-143)
-[![Astrea](https://img.shields.io/badge/ASTREA-SOLUTIONS-a78bfa?style=for-the-badge&labelColor=0b1020)](https://astrea.lk/)
-[![Repositories](https://img.shields.io/badge/EXPLORE-MY_CODE-f472b6?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=white)](https://github.com/Kaveesha-Nethmina-143?tab=repositories)
+<sub>S R I &nbsp; L A N K A &nbsp; / &nbsp; A S T R E A &nbsp; S O L U T I O N S</sub>
 
 <br/>
 <br/>
 
-### `01` / THE PERSON BEHIND THE COMMITS
+### Thoughtful development. Considered design.
 
-**Hey, I'm Kaveesha — a web developer from Sri Lanka.**<br/>
-I work across the interface and the backend, bringing together<br/>
-**web, mobile, backend, databases, games, and creative tools.**
+I'm **Kaveesha Nethmina**, a developer with an interest in the relationship<br/>
+between useful technology and a well-crafted experience.
 
-
-<br/>
-
-### `02` / MY TECH UNIVERSE
-
-<sub>The technologies I work with — from the first HTML element to the server.</sub>
+My practice spans **web, mobile, backend development, databases,<br/>
+game development, and creative tools**.
 
 <br/>
-<br/>
 
-<img src="./stack.svg" width="100%" alt="Animated logo cards for HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, PHP, Java, Firebase, MySQL, PostgreSQL, Cloudflare, Android, React Native, Unity, Bootstrap, Apache Maven, Canva and AI" />
-
-<sub>Moving neon borders · pulsing highlights · 19 technologies & tools</sub>
+[Explore my work](https://github.com/Kaveesha-Nethmina-143?tab=repositories) &nbsp; · &nbsp; [Astrea Solutions](https://astrea.lk/) &nbsp; · &nbsp; [Contribution history](https://github.com/Kaveesha-Nethmina-143?tab=overview)
 
 <br/>
 <br/>
 
-### `03` / FROM PIXELS TO LOGIC
+<img src="./atelier-stack.svg" width="100%" alt="Nineteen technologies and tools, presented in charcoal and muted gold with subtle animated details" />
+
+<br/>
+<br/>
+
+### A balance of form and function.
 
 </div>
 
-**◈ Interfaces with character**<br/>
-HTML and CSS for structure and detail. React and Next.js for component-based interfaces. Tailwind CSS for styling across screen sizes.
+**For the web** — HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and Bootstrap. Structure, interaction, and responsive interfaces.
 
-**⌘ Behaviour behind the interface**<br/>
-JavaScript for interaction. PHP and Java for backend development. MySQL, PostgreSQL, and Firebase for data, with Apache Maven in my Java workflow.
+**Behind the experience** — PHP, Java, and Apache Maven. MySQL, PostgreSQL, Firebase, and Cloudflare for data, services, and infrastructure.
 
-**✦ Beyond the browser**<br/>
-Android and React Native for mobile development, Unity for games, Cloudflare for web infrastructure, and Canva and AI tools for creative work.
+**Beyond the browser** — Android, React Native, and Unity. Canva and AI tools support the creative side of the process.
 
-**✦ The details that make it feel right**<br/>
-Responsive layouts, clear navigation, consistent spacing, and motion that gives an interface personality.
+<br/>
+
+<img src="./atelier-method.svg" width="100%" alt="A considered development approach with a gently moving gold accent" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/Kaveesha-Nethmina-143?tab=overview"><img src="./atelier-contributions.svg" width="100%" alt="Contribution history in warm gold tones" /></a>
 
 <div align="center">
 
-<br/>
-
-### `04` / THE BUILD LOOP
-
-<img src="./workflow.svg" width="100%" alt="Animated development loop: imagine, design, develop, refine and repeat" />
-
-<br/>
-
-### `05` / CONTRIBUTION ARCADE
-
-<a href="https://github.com/Kaveesha-Nethmina-143?tab=overview"><img src="./contribution-fire.svg" width="100%" alt="Commit Fire: animated cyan, purple and pink contribution calendar with a fire-shooting arcade ship" /></a>
-
-<sub>Animated arcade replay · calendar snapshot: 8 November 2026 · <a href="https://github.com/Kaveesha-Nethmina-143?tab=overview">live contribution history ↗</a></sub>
+<sub>Calendar snapshot: 8 November 2026 · [View live history](https://github.com/Kaveesha-Nethmina-143?tab=overview)</sub>
 
 <br/>
 <br/>
 
-### `06` / EXPLORE MY WORLD
+*Built with care. Refined with intention.*
 
-[![Repositories](https://img.shields.io/badge/%3C%2F%3E_BROWSE_MY_CODE-22D3EE?style=for-the-badge&labelColor=0B1020)](https://github.com/Kaveesha-Nethmina-143?tab=repositories)
-[![Activity](https://img.shields.io/badge/COMMIT_TRAIL-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaveesha-Nethmina-143?tab=overview)
-[![Astrea](https://img.shields.io/badge/VISIT_ASTREA-F472B6?style=for-the-badge)](https://astrea.lk/)
+<sub>KAVEESHA NETHMINA &nbsp; / &nbsp; DEVELOPMENT &amp; DESIGN</sub>
 
-<br/>
-
-**Code with purpose. Design with personality.**
-
-<sub>Web · Mobile · Backend · Databases · Cloud · Games · Design · AI</sub>
-
-<br/>
 <br/>
 
 </div>
