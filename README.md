@@ -62,7 +62,16 @@ Responsive layouts, clear navigation, consistent spacing, and motion that gives 
 
 <br/>
 
-### `05` / EXPLORE MY WORLD
+### `05` / CONTRIBUTION ARCADE
+
+<a href="https://github.com/Kaveesha-Nethmina-143?tab=overview"><img src="./contribution-fire.svg" width="100%" alt="Commit Fire: animated cyan, purple and pink contribution calendar with a fire-shooting arcade ship" /></a>
+
+<sub>Animated arcade replay · calendar snapshot: 8 November 2026 · <a href="https://github.com/Kaveesha-Nethmina-143?tab=overview">live contribution history ↗</a></sub>
+
+<br/>
+<br/>
+
+### `06` / EXPLORE MY WORLD
 
 [![Repositories](https://img.shields.io/badge/%3C%2F%3E_BROWSE_MY_CODE-22D3EE?style=for-the-badge&labelColor=0B1020)](https://github.com/Kaveesha-Nethmina-143?tab=repositories)
 [![Activity](https://img.shields.io/badge/COMMIT_TRAIL-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaveesha-Nethmina-143?tab=overview)
